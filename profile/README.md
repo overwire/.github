@@ -3,7 +3,7 @@
   <img alt="overwire" width="260" src="https://raw.githubusercontent.com/overwire/.github/main/profile/wordmark-light.svg">
 </picture>
 
-<br />
+---
 
 **Local workflow workbench** — run, mock, and debug your `.github/workflows/`
 files locally before you push.
