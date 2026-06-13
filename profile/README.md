@@ -9,12 +9,11 @@
 files locally before you push.
 
 Overwire runs the same workflow YAML and `action.yml` files you push to GitHub,
-faithfully enough that "works on Overwire" predicts "works on GitHub." Flag any
+faithfully enough that "works on Overwire" predicts "works on GitHub". Flag any
 step **skip**, **live**, or **mock**, simulate events, and test branch policies
 and security gates before the push — closing the push-wait-read-logs-fix loop.
 
-Compatible with GitHub Actions workflow syntax. macOS desktop app with a
-scriptable CLI.
+Compatible with GitHub Actions workflow syntax.
 
 ### Explore
 
